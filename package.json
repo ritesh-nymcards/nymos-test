@@ -1,0 +1,17 @@
+{
+  "name": "nymos-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ritesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": "git://github.com/ritesh-nymcards/nymos-test.git"
+}
